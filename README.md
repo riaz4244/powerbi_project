@@ -1,1 +1,12 @@
-Power BI project showcasing data analytics skills through General store data analysis.
+Power BI Project: General Store Sales Data Analysis
+Welcome to the General Store Sales Data Analysis project! This project involves creating an interactive dashboard using Power BI to analyze sales data from a general store.
+
+Description: 
+This project aims to provide insights into the sales performance of a general store through interactive visualization. The Power BI dashboard allows users to explore various aspects of sales data, including product performance, revenue trends, customer demographics, and geographical distribution.
+
+Features: 
+Interactive Dashboard: The Power BI dashboard provides an interactive interface for users to explore sales data dynamically.
+Multiple Visualizations: The dashboard includes various visualizations such as bar charts, line charts, pie charts, and maps to represent different aspects of sales data effectively.
+Drill-Down Capability: Users can drill down into specific data points to gain deeper insights and identify trends or patterns.
+Filter Options: The dashboard includes filter options to allow users to focus on specific time periods, product categories, customer segments, or geographical regions.
+Performance Metrics: Key performance metrics such as total sales, average order value, top-selling products, and customer acquisition trends are highlighted for quick analysis.
